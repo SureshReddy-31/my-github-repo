@@ -1,2 +1,0 @@
-This is git hub demo.
-Adding new content to file2
